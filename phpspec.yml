@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: prototipo
+        psr4_prefix: prototipo
+        src_path: app
